@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "multiocc"]
 	path = multiocc
-	url = https://github.com/cran/multiocc
+	url = https://github.com/heplersa/multiocc
 	shallow = true
 	registered = true
