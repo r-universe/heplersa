@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "multiocc"]
 	path = multiocc
 	url = https://github.com/heplersa/multiocc
-	shallow = true
-	registered = true
